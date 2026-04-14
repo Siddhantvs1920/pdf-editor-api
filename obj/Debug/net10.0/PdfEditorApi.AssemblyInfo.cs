@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfEditorApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66455e76b940f340c661774459b0c24f4a7b4210")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfEditorApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfEditorApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+@PdfEditorApi_HostAddress = https://d5c4-2402-e280-3e15-28e-29e8-26ba-c289-3ac9.ngrok-free.app
+
+GET {{PdfEditorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
